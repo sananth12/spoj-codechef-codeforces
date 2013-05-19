@@ -1,0 +1,3 @@
+This repo contains all my SPOJ solutions for backup .... 
+
+~ Ananthanatarajan.S
