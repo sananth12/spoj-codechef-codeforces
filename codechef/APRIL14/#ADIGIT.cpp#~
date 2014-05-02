@@ -1,0 +1,16 @@
+#include<iostream>
+#include<cstdio>
+using namespace std;
+int main()
+{
+  int i,n,m;
+  cin>>n>>m;
+  int a[n];
+  for(i=0;i<n;i++)
+    {
+      char c;
+      scanf("%c",&c;
+    }
+  
+  return 0;
+}
