@@ -1,3 +1,11 @@
-This repo contains all my SPOJ/Codechef/Codeforces solutions for backup .... 
+Competetive Programming
+=======================
 
-~ Ananthanatarajan.S
+This repo contains (almost) all programs from:
+
+* codechef.com
+* codeforces.com
+* spoj.com
+* hackerrank.com
+
+Hande : sananth12
