@@ -8,4 +8,4 @@ This repo contains (almost) all programs from:
 * spoj.com
 * hackerrank.com
 
-Hande : sananth12
+Hande : sananth12 on all platforms
