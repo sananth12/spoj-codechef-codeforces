@@ -1,0 +1,22 @@
+
+#include<bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+  int t;
+  cin>>t;
+  for(int T=1;T<=t;T++)
+    {
+      cout<<"Scenario #"<<T<<" :";
+      int sum=0,target,n;
+      cin>>target>>n;
+      int a[n];
+      for(int i=0;i<n;i++)
+	cin>>a[i];
+      sort(a,a+n);
+      
+    }
+
+  return 0;
+}
