@@ -1,4 +1,4 @@
-B1;2802;0cCompetetive Programming
+Competetive Programming
 =======================
 
 This repo contains (almost) all programs from:
@@ -14,4 +14,4 @@ Stats
 =====
 
 * Total lines of code :  22,410+
-* Total programs      :  486+
+* Total programs      :  ~494
