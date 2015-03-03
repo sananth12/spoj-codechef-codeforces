@@ -14,4 +14,4 @@ Stats
 =====
 
 * Total lines of code :  22,410+
-* Total programs      :  ~494
+* Total programs      :  500+
